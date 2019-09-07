@@ -1,3 +1,3 @@
-# Coursera_Reinforcement_Learning_Specialization Repository
+# Coursera Reinforcement Learning Specialization Repository
 
-For reference purposes only, Coursera has a strict honor code.
+Provided by theUniversity of Alberta - Alberta Machine Intelligence Institute. For reference purposes only, Coursera has a strict honor code.
